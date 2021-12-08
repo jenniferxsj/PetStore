@@ -58,7 +58,7 @@ function Home() {
         <p>You can find everything you need here for your pets!</p>
         <Link to="/products">
           <button type="button" className="btn btn-color btn-lg text-light">
-            Start Shoping
+            Start Shopping
           </button>
         </Link>
       </div>
